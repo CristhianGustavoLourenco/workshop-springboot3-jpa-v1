@@ -31,6 +31,7 @@ public class OrderItemPK implements Serializable{
 	public Product getProduct() {
 		return product;
 	}
+	
 	public void setProduct(Product product) {
 		this.product = product;
 	}
